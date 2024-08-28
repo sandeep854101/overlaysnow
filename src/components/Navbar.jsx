@@ -7,7 +7,7 @@ import { ImCart } from 'react-icons/im';
 
 const Navbar = ({ navbar }) => {
     return (
-        <div className='fixed top-0 left-0 w-full z-50 bg-white shadow-lg'>
+        <div className=' sticky top-0 left-0 w-full z-50 bg-white shadow-lg'>
             <div className='h-[2.8rem] bg-[black] text-[white] flex gap-6 justify-center items-center'>
                 <FaArrowLeft />
                 <p>Upto 40% off on Winter Bestsellers | valid till August end</p>
