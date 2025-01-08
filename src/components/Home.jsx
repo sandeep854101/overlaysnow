@@ -16,6 +16,7 @@ const Home = () => {
       <RoundedImage heading="Seasonal Favorites" Section3_Image={Section3_Image} />
       <ThreeImageShow  heading="Latest Styles" ThreeImageShowData={ThreeImageShowData} />
       <RoundedImage heading="Just In" Section3_Image={Section3_Image} />
+      
     </div>
   )
 }
