@@ -195,176 +195,142 @@ export const CircleImageData = [
 
 export const Section3_Image = [
   {
-    image: 'https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030',
-    link: "#",
-    paragraph: 'Periwinkle Navy Relaxed Fit T-shirt-Ultra Soft',
-    price: '₹ 999.00',
-    size: [ 
-      { label: "XS", url: "#" }, { label: "S", url: "#" }, { label: "M", url: "#" }, { label: "L", url: "#" }, { label: "XL", url: "#" }, { label: "XXL", url: "#" },
+    "image": "https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030",
+    "link": "/details",
+    "title": "Periwinkle Navy Relaxed Fit T-shirt",
+    "description": "Ultra soft and comfortable relaxed fit T-shirt perfect for casual wear.",
+    "price": "₹999.00",
+    "sizes": [
+      { "label": "XS", "url": "#" },
+      { "label": "S", "url": "#" },
+      { "label": "M", "url": "#" },
+      { "label": "L", "url": "#" },
+      { "label": "XL", "url": "#" },
+      { "label": "XXL", "url": "#" }
     ]
   },
   {
-    image: 'https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030',
-    link: "#",
-    paragraph: 'Periwinkle Navy Relaxed Fit T-shirt-Ultra Soft',
-    price: '₹ 999.00',
-    size: [
-      { label: "XS", url: "#" }, { label: "S", url: "#" }, { label: "M", url: "#" }, { label: "L", url: "#" }, { label: "XL", url: "#" }, { label: "XXL", url: "#" },
+    "image": "https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030",
+    "link": "/details",
+    "title": "Periwinkle Navy Relaxed Fit T-shirt",
+    "description": "Designed for comfort and style with ultra-soft fabric.",
+    "price": "₹999.00",
+    "sizes": [
+      { "label": "XS", "url": "#" },
+      { "label": "S", "url": "#" },
+      { "label": "M", "url": "#" },
+      { "label": "L", "url": "#" },
+      { "label": "XL", "url": "#" },
+      { "label": "XXL", "url": "#" }
     ]
   },
   {
-    image: 'https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030',
-    link: "#",
-    paragraph: 'Periwinkle Navy Relaxed Fit T-shirt-Ultra Soft',
-    price: '₹ 999.00',
-    size: [
-      { label: "XS", url: "#" }, { label: "S", url: "#" }, { label: "M", url: "#" }, { label: "L", url: "#" }, { label: "XL", url: "#" }, { label: "XXL", url: "#" },
+    "image": "https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030",
+    "link": "/details",
+    "title": "Periwinkle Navy Relaxed Fit T-shirt",
+    "description": "Breathable, lightweight, and great for all seasons.",
+    "price": "₹999.00",
+    "sizes": [
+      { "label": "XS", "url": "#" },
+      { "label": "S", "url": "#" },
+      { "label": "M", "url": "#" },
+      { "label": "L", "url": "#" },
+      { "label": "XL", "url": "#" },
+      { "label": "XXL", "url": "#" }
     ]
   },
   {
-    image: 'https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030',
-    link: "#",
-    paragraph: 'Periwinkle Navy Relaxed Fit T-shirt-Ultra Soft',
-    price: '₹ 999.00',
-    size: [
-      { label: "XS", url: "#" }, { label: "S", url: "#" }, { label: "M", url: "#" }, { label: "L", url: "#" }, { label: "XL", url: "#" }, { label: "XXL", url: "#" },
+    "image": "https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030",
+    "link": "/details",
+    "title": "Periwinkle Navy Relaxed Fit T-shirt",
+    "description": "A premium choice for casual outings or lounging at home.",
+    "price": "₹999.00",
+    "sizes": [
+      { "label": "XS", "url": "#" },
+      { "label": "S", "url": "#" },
+      { "label": "M", "url": "#" },
+      { "label": "L", "url": "#" },
+      { "label": "XL", "url": "#" },
+      { "label": "XXL", "url": "#" }
     ]
   },
   {
-    image: 'https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030',
-    link: "#",
-    paragraph: 'Periwinkle Navy Relaxed Fit T-shirt-Ultra Soft',
-    price: '₹ 999.00',
-    size: [
-      { label: "XS", url: "#" }, { label: "S", url: "#" }, { label: "M", url: "#" }, { label: "L", url: "#" }, { label: "XL", url: "#" }, { label: "XXL", url: "#" },
+    "image": "https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030",
+    "link": "/details",
+    "title": "Periwinkle Navy Relaxed Fit T-shirt",
+    "description": "High-quality relaxed fit T-shirt designed for everyday use.",
+    "price": "₹999.00",
+    "sizes": [
+      { "label": "XS", "url": "#" },
+      { "label": "S", "url": "#" },
+      { "label": "M", "url": "#" },
+      { "label": "L", "url": "#" },
+      { "label": "XL", "url": "#" },
+      { "label": "XXL", "url": "#" }
     ]
   },
   {
-    image: 'https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030',
-    link: "#",
-    paragraph: 'Periwinkle Navy Relaxed Fit T-shirt-Ultra Soft',
-    price: '₹ 999.00',
-    size: [
-      { label: "XS", url: "#" }, { label: "S", url: "#" }, { label: "M", url: "#" }, { label: "L", url: "#" }, { label: "XL", url: "#" }, { label: "XXL", url: "#" },
+    "image": "https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030",
+    "link": "/details",
+    "title": "Periwinkle Navy Relaxed Fit T-shirt",
+    "description": "A premium choice for casual outings or lounging at home.",
+    "price": "₹999.00",
+    "sizes": [
+      { "label": "XS", "url": "#" },
+      { "label": "S", "url": "#" },
+      { "label": "M", "url": "#" },
+      { "label": "L", "url": "#" },
+      { "label": "XL", "url": "#" },
+      { "label": "XXL", "url": "#" }
     ]
   },
   {
-    image: 'https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030',
-    link: "#",
-    paragraph: 'Periwinkle Navy Relaxed Fit T-shirt-Ultra Soft',
-    price: '₹ 999.00',
-    size: [
-      { label: "XS", url: "#" }, { label: "S", url: "#" }, { label: "M", url: "#" }, { label: "L", url: "#" }, { label: "XL", url: "#" }, { label: "XXL", url: "#" },
+    "image": "https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030",
+    "link": "/details",
+    "title": "Periwinkle Navy Relaxed Fit T-shirt",
+    "description": "High-quality relaxed fit T-shirt designed for everyday use.",
+    "price": "₹999.00",
+    "sizes": [
+      { "label": "XS", "url": "#" },
+      { "label": "S", "url": "#" },
+      { "label": "M", "url": "#" },
+      { "label": "L", "url": "#" },
+      { "label": "XL", "url": "#" },
+      { "label": "XXL", "url": "#" }
     ]
   },
   {
-    image: 'https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030',
-    link: "#",
-    paragraph: 'Periwinkle Navy Relaxed Fit T-shirt-Ultra Soft',
-    price: '₹ 999.00',
-    size: [
-      { label: "XS", url: "#" }, { label: "S", url: "#" }, { label: "M", url: "#" }, { label: "L", url: "#" }, { label: "XL", url: "#" }, { label: "XXL", url: "#" },
+    "image": "https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030",
+    "link": "/details",
+    "title": "Periwinkle Navy Relaxed Fit T-shirt",
+    "description": "A premium choice for casual outings or lounging at home.",
+    "price": "₹999.00",
+    "sizes": [
+      { "label": "XS", "url": "#" },
+      { "label": "S", "url": "#" },
+      { "label": "M", "url": "#" },
+      { "label": "L", "url": "#" },
+      { "label": "XL", "url": "#" },
+      { "label": "XXL", "url": "#" }
     ]
   },
   {
-    image: 'https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030',
-    link: "#",
-    paragraph: 'Periwinkle Navy Relaxed Fit T-shirt-Ultra Soft',
-    price: '₹ 999.00',
-    size: [
-      { label: "XS", url: "#" }, { label: "S", url: "#" }, { label: "M", url: "#" }, { label: "L", url: "#" }, { label: "XL", url: "#" }, { label: "XXL", url: "#" },
+    "image": "https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030",
+    "link": "/details",
+    "title": "Periwinkle Navy Relaxed Fit T-shirt",
+    "description": "High-quality relaxed fit T-shirt designed for everyday use.",
+    "price": "₹999.00",
+    "sizes": [
+      { "label": "XS", "url": "#" },
+      { "label": "S", "url": "#" },
+      { "label": "M", "url": "#" },
+      { "label": "L", "url": "#" },
+      { "label": "XL", "url": "#" },
+      { "label": "XXL", "url": "#" }
     ]
   },
-  {
-    image: 'https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030',
-    link: "#",
-    paragraph: 'Periwinkle Navy Relaxed Fit T-shirt-Ultra Soft',
-    price: '₹ 999.00',
-    size: [
-      { label: "XS", url: "#" }, { label: "S", url: "#" }, { label: "M", url: "#" }, { label: "L", url: "#" }, { label: "XL", url: "#" }, { label: "XXL", url: "#" },
-    ]
-  },
-  {
-    image: 'https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030',
-    link: "#",
-    paragraph: 'Periwinkle Navy Relaxed Fit T-shirt-Ultra Soft',
-    price: '₹ 999.00',
-    size: [
-      { label: "XS", url: "#" }, { label: "S", url: "#" }, { label: "M", url: "#" }, { label: "L", url: "#" }, { label: "XL", url: "#" }, { label: "XXL", url: "#" },
-    ]
-  },
-  {
-    image: 'https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030',
-    link: "#",
-    paragraph: 'Periwinkle Navy Relaxed Fit T-shirt-Ultra Soft',
-    price: '₹ 999.00',
-    size: [
-      { label: "XS", url: "#" }, { label: "S", url: "#" }, { label: "M", url: "#" }, { label: "L", url: "#" }, { label: "XL", url: "#" }, { label: "XXL", url: "#" },
-    ]
-  },
-  {
-    image: 'https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030',
-    link: "#",
-    paragraph: 'Periwinkle Navy Relaxed Fit T-shirt-Ultra Soft',
-    price: '₹ 999.00',
-    size: [
-      { label: "XS", url: "#" }, { label: "S", url: "#" }, { label: "M", url: "#" }, { label: "L", url: "#" }, { label: "XL", url: "#" }, { label: "XXL", url: "#" },
-    ]
-  },
-  {
-    image: 'https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030',
-    link: "#",
-    paragraph: 'Periwinkle Navy Relaxed Fit T-shirt-Ultra Soft',
-    price: '₹ 999.00',
-    size: [
-      { label: "XS", url: "#" }, { label: "S", url: "#" }, { label: "M", url: "#" }, { label: "L", url: "#" }, { label: "XL", url: "#" }, { label: "XXL", url: "#" },
-    ]
-  },
-  {
-    image: 'https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030',
-    link: "#",
-    paragraph: 'Periwinkle Navy Relaxed Fit T-shirt-Ultra Soft',
-    price: '₹ 999.00',
-    size: [
-      { label: "XS", url: "#" }, { label: "S", url: "#" }, { label: "M", url: "#" }, { label: "L", url: "#" }, { label: "XL", url: "#" }, { label: "XXL", url: "#" },
-    ]
-  },
-  {
-    image: 'https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030',
-    link: "#",
-    paragraph: 'Periwinkle Navy Relaxed Fit T-shirt-Ultra Soft',
-    price: '₹ 999.00',
-    size: [
-      { label: "XS", url: "#" }, { label: "S", url: "#" }, { label: "M", url: "#" }, { label: "L", url: "#" }, { label: "XL", url: "#" }, { label: "XXL", url: "#" },
-    ]
-  },
-  {
-    image: 'https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030',
-    link: "#",
-    paragraph: 'Periwinkle Navy Relaxed Fit T-shirt-Ultra Soft',
-    price: '₹ 999.00',
-    size: [
-      { label: "XS", url: "#" }, { label: "S", url: "#" }, { label: "M", url: "#" }, { label: "L", url: "#" }, { label: "XL", url: "#" }, { label: "XXL", url: "#" },
-    ]
-  },
-  {
-    image: 'https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030',
-    link: "#",
-    paragraph: 'Periwinkle Navy Relaxed Fit T-shirt-Ultra Soft',
-    price: '₹ 999.00',
-    size: [
-      { label: "XS", url: "#" }, { label: "S", url: "#" }, { label: "M", url: "#" }, { label: "L", url: "#" }, { label: "XL", url: "#" }, { label: "XXL", url: "#" },
-    ]
-  },
-  {
-    image: 'https://overlaysnow.com/cdn/shop/files/1_1_ed0dbef7-983e-4b38-b8a8-16b6009428d7_large.jpg?v=1722359030',
-    link: "#",
-    paragraph: 'Periwinkle Navy Relaxed Fit T-shirt-Ultra Soft',
-    price: '₹ 999.00',
-    size: [
-      { label: "XS", url: "#" }, { label: "S", url: "#" }, { label: "M", url: "#" }, { label: "L", url: "#" }, { label: "XL", url: "#" }, { label: "XXL", url: "#" },
-    ]
-  },
+
+ 
 
 ];
 
@@ -399,3 +365,7 @@ export const FooterData = [
     ]
   }
 ];
+
+
+
+

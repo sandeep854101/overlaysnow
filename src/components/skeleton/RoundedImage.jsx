@@ -1,4 +1,5 @@
 import React, { useRef, useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 
 const RoundedImage = ({ heading, Section3_Image }) => {
     const scrollRef = useRef(null);
@@ -76,18 +77,18 @@ const RoundedImage = ({ heading, Section3_Image }) => {
             >
                 {Section3_Image.map((item,index) => (
                     <div key={index} className="flex-none text-center">
-                        <a href={item.link} className="group">
+                        <Link to={item.link} className="group">
                             <div className="relative rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300 ">
                                 <img
                                     src={item.image}
-                                    alt={item.paragraph}
+                                    alt={item.title}
                                     className="w-[250px] h-[400px] object-cover group-hover:scale-105 transition-transform duration-300"
                                 />
                                 <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent p-2 text-white text-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                                    <p>{item.paragraph}</p>
+                                    <p>{item.title}</p>
                                 </div>
                             </div>
-                        </a>
+                        </Link>
 
                         
                         

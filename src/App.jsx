@@ -4,6 +4,7 @@ import Footer from './components/Footer';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from './components/Home';
 import { FooterData, NavbarData } from './components/data/AllData';
+import CardDetailPage from './components/skeleton/CardDetailPage';
 
 
 
@@ -13,6 +14,7 @@ const App = () => {
       <Navbar navbar={NavbarData} />
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/details" element={<CardDetailPage />} />
         <Route path="*" element={<Home />} />
       </Routes>
       <Footer FooterData={FooterData} />

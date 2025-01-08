@@ -4,6 +4,7 @@ import { FaArrowLeft, FaArrowRight } from 'react-icons/fa';
 import { CiSearch, CiUser } from 'react-icons/ci';
 import { MdOutlineMail } from 'react-icons/md';
 import { ImCart } from 'react-icons/im';
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
     return (
@@ -19,7 +20,9 @@ const Navbar = () => {
                     <input type="text" className='border-none outline-none text-[1rem]' placeholder='Search...' />
                 </div>
                 <div className='w-[5rem]'>
+                    <Link to="/">
                     <img src={logo} alt="Logo" />
+                    </Link>
                 </div>
                 <div className='flex gap-6 items-center text-[1.7rem]  '>
                     <MdOutlineMail className='cursor-pointer'/>
