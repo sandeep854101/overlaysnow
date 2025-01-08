@@ -6,8 +6,8 @@ const Footer = ({ FooterData }) => {
   const policiesData = FooterData[1];
 
   return (
-    <footer className="bg-gray-100 py-8">
-      <div className="container mx-auto grid grid-cols-1 md:grid-cols-4 gap-8">
+    <footer >
+      <div className="container mx-auto grid grid-cols-1 md:grid-cols-4 gap-8 px-[4rem] py-10">
         <div>
           <h2 className="font-bold text-lg mb-4">{aboutData.title}</h2>
           <ul>
